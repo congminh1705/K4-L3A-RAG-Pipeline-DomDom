@@ -1,0 +1,53 @@
+# Bảo tồn văn hóa hài hòa với phát triển Du lịch Thủ đô
+
+**Source:** https://vietnamtourism.gov.vn/post/54044
+
+**Crawled:** 2026-09-20T09:27:33.176797+00:00
+
+---
+
+Trong nhiều năm qua du lịch văn hóa đã góp phần quan trọng tạo nên thương hiệu cho ngành du lịch. Hà Nội đã và đang trú trọng bảo tồn, phát huy giá trị di tích, tạo điều phát triển du lịch, góp phần tăng trưởng ngành kinh tế xanh này.
+
+[![](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_1.jpg)](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_1.jpg)
+
+**Du lịch gắn kết chặt chẽ với văn hóa**
+
+Với 5.922 di tích, 1.793 di sản văn hóa phi vật thể, 1.350 làng nghề cùng rất nhiều làng cổ và các không gian văn hóa, Hà Nội có dư địa dồi dào cho hoạt động phát triển du lịch Thủ đô.
+
+Trong rất nhiều loại hình du lịch của Thủ đô, du lịch văn hóa được coi là loại hình ưu tiên, bởi nó mang đặc trưng riêng, tạo ra thương hiệu cho du lịch Hà Nội. Nhắc đến du lịch Hà Nội là nhắc tới Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch, Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám, hồ Hoàn Kiếm và đền Ngọc Sơn, phố cổ Hà Nội, chùa Một Cột, chùa Trấn Quốc... đều là các di sản văn hóa tiêu biểu của Thủ đô. Các điểm này luôn là lựa chọn hàng đầu của du khách khi đến Hà Nội, bởi nó mang giá trị về mặt kiến trúc, văn hóa lịch sử và khi đến đây, du khách sẽ hiểu hơn về chiều dài văn hóa nghìn năm của Thăng Long – Hà Nội. Trong nhiều năm qua, ngành Du lịch Thủ đô luôn coi trọng phát triển du lịch văn hóa để thu hút khách, đặc biệt là khách quốc tế. Dù vậy, không chỉ khai thác trên lợi thế sẵn có, Hà Nội còn đặc biệt quan tâm đến công tác bảo tồn văn hóa, nhằm gìn giữ vốn quý cho muôn đời sau và góp phần thúc đẩy phát triển du lịch.
+
+Trong nhiều năm qua, vấn đề bảo tồn văn hóa và khai thác, phát triển du lịch từ các nguồn lực văn hóa luôn được đặt ra. Nhìn nhận từ thực thế, bảo tồn văn hóa và phát triển du lịch có mối quan hệ chặt chẽ với nhau, bởi văn hóa là một trong những nền tảng để phát triển du lịch, còn du lịch là nguồn lực và động lực để bảo tồn, phát huy giá trị văn hóa. Giải quyết hài hòa quan hệ giữa bảo tồn văn hóa và phát triển du lịch sẽ tạo sự bền vững trong phát triển kinh tế, xã hội Thủ đô, vừa mang lại nguồn lợi lớn về kinh tế, vừa bảo tồn và phát huy tốt các giá trị văn hóa truyền.
+
+[![](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_2.jpg)](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_2.jpg)
+
+*Làng cổ Đường Lâm là diểm đến hấp dẫn của khách du lịch quốc tế trong tour du lịch Hà Nội. Ảnh: VGP*
+
+Theo Tiến sĩ Trần Đức Nguyên, Trường Đại học Văn hóa Hà Nội, việc phát triển du lịch trên địa bàn Thủ đô tập trung vào điểm di sản văn hóa tiêu biểu như, các di tích, làng nghề, văn hóa ẩm thực... Việc tổ chức khai thác hệ thống di tích góp phần phát triển du lịch được Hà Nội thực hiện hiệu quả từ nhiều năm qua. Nguồn thu từ hoạt động này đã góp phần không nhỏ vào sự phát triển kinh tế của Thủ đô.
+
+Di tích làng cổ Đường Lâm là một điển hình trong quan hệ đầu tư bảo tồn và khai thác phát triển du lịch. Những năm qua, thành phố Hà Nội và thị xã Sơn Tây đã đầu tư nguồn lực lớn hỗ trợ các gia đình bảo tồn các ngôi nhà cổ, trùng tu, tu bổ các di tích trong làng. Đến Đường Lâm hiện nay sẽ thấy một diện mạo khác, đường làng sạch đẹp, các ngôi nhà cổ đã giải quyết được tình trạng xuống cấp mà được trùng tu đẹp hơn, người dân hồ hởi làm du lịch. Cũng chính vì thế, khách du lịch đến Đường Lâm ngày một nhiều, nguồn thu du lịch lại được tái đầu tư vào cải tạo hạ tầng trong làng.
+
+Hay di tích Văn Miếu – Quốc Tử Giám cũng luôn là nơi quan tâm đến công tác bảo tồn gắn với khai thác phát triển du lịch. Bên cạnh việc đầu tư tu bổ hệ thống bia đá, nhà Tả Vu, hữu Vu khu Thái học, hồ Văn, gò Kim Châu và phục dựng Phương Đình... di tích Văn Miếu – Quốc Tử Giám còn được khai thác, phát huy lợi thế để thu hút khách du lịch. Mới đây, khu di tích này còn đưa vào hoạt động tour đêm với chủ đề "Tinh hoa đạo học" để đưa đến trải nghiệm cho du khách khi tham quan di tích vào ban đêm. Giám đốc Trung tâm Hoạt động Văn hóa Khoa học Văn Miếu – Quốc Tử Giám cho biết: Khu di tích Văn Miếu - Quốc Tử Giám vốn là di sản quý thu hút đông đảo du khách khi đến thăm Hà Nội. Việc bảo tồn và phát huy giá trị di tích thông qua việc làm mới các sản phẩm du lịch cũng nhằm làm đa dạng hóa sản phẩm du lịch của Văn Miếu – Quốc Tử Giám cũng như của ngành Du lịch Hà Nội.
+
+Không chỉ hai di tích trên mà đa phần các di tích cũng coi trọng việc bảo tồn với khai thác phát triển du lịch. Nếu chỉ khai thác, coi nhẹ bảo tồn thì việc xuống cấp, mai một của di sản văn hóa sẽ diễn ra nhanh chóng, dẫn đến văn hóa cũng không đủ sức hấp dẫn du khách. Nguồn thu từ du lịch phải được tái đầu tư trở lại cho bảo tồn di sản văn hóa một cách tương xứng với mục tiêu duy trì và gia tăng nguồn vốn cho phát triển du lịch.
+
+**Du lịch và văn hóa - thúc đẩy cùng phát triển**
+
+[![](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_3.jpg)](/images/2024/thang_1/0201.phat_trien_du_lich_thu_do_3.jpg)
+
+*Nhiều giá trị văn hóa vật thể và phi vật thể được bảo tồn và phát huy giá trị thông qua việc xây dựng các sản phẩm du lịch mới của Hà Nội. Ảnh: VGP/Minh Anh*
+
+Việc bảo tồn những giá trị quý là trách nhiệm của các cơ quan quản lý cũng như cả cộng đồng, không chỉ thể hiện sự trân trọng vốn quý cha ông để lại mà còn giáo dục truyền thống dân tộc, hun đúc tình yêu quê hương, đất nước cho mọi tầng lớp nhân dân. Song hành với bảo tồn, công tác phát huy giá trị văn hóa cũng đặc biệt được coi trọng để quảng bá hình ảnh, lan tỏa các giá trị đến đông đảo người dân và du khách, trong đó du lịch là một kênh truyền tải hiệu quả. Chính vì vậy, việc bảo tồn văn hóa và phát triển du lịch luôn song hành cùng nhau, cùng thúc đẩy nhau phát triển.
+
+Phó Giáo sư, Tiến sĩ Đặng Văn Bài, Phó Chủ tịch Hội đồng Di sản Văn hóa Quốc gia đề xuất, thành phố cần tăng cường đầu tư cho hoạt động bảo tồn và phát huy giá trị di sản văn hóa trên địa bàn, đồng thời nghiên cứu và thể nghiệm mô hình hợp tác công – tư trong hoạt động bảo tồn di sản văn hóa gắn với phát triển du lịch bền vững. Một mặt, thành phố ưu tiên phát triển mô hình du lịch cộng đồng để bảo tồn di sản văn hóa tại cộng đồng.
+
+Hiện nay, ngành Văn hóa Hà Nội cũng như các quận, huyện, thị xã đã quan tâm đầu tư phát triển văn hóa, từ đầu tư kinh phí tu bổ di tích, khôi phục các di sản văn hóa phi vật thể, xây dựng các chương trình nghệ thuật lớn để gìn giữ các giá trị văn hóa và thúc đẩy phát triển công nghiệp văn hóa. Thành phố Hà Nội quyết định dành 14.029 tỷ đồng đầu tư tu bổ, tôn tạo 579 di tích, giai đoạn 2021-2025, tạo ra luồng sinh khí mới cho hệ thống di tích trên địa bàn Thủ đô. Khi hoàn thành, các di tích sẽ phát huy tốt giá trị, thu hút khách du lịch.
+
+Trưởng Ban quản lý di tích và danh thắng Hà Nội Nguyễn Doãn Văn cho rằng, quan tâm đến bảo tồn di tích đồng nghĩa với việc quan tâm đến công tác phát huy giá trị, mà khai thác phát triển du lịch là một trong những mục tiêu hướng tới. Bởi vậy, hai công việc này cần quan tâm cùng nhau. Với việc thành phố dành nguồn kinh phí lớn đầu tư lớn cho việc tu bổ di tích không chỉ để giữ gìn các giá trị di sản mà còn tạo thuận lợi lớn trong việc phát huy giá trị, phục vụ khách tham quan, tìm hiểu văn hóa Hà Nội.
+
+Để phát triển du lịch gắn với việc bảo tồn, phát huy những tiềm năng, thế mạnh của văn hóa, hướng tới xây dựng thương hiệu du lịch Thủ đô có chất lượng cao, ngành Du lịch Hà Nội cũng phối hợp với các cơ quan liên quan tập trung công tác quy hoạch, đầu tư, bảo tồn, trùng tu di tích gắn với phát huy các giá trị văn hóa, nâng cao giá trị gia tăng cho các sản phẩm du lịch Thủ đô. Trong đó, tập trung vào các công trình trọng điểm như: Dự án bảo tồn, tôn tạo và phát huy giá trị khu vực thành Cổ Loa, Hoàng thành Thăng Long, làng gốm sứ Bát Tràng, dệt lụa Vạn Phúc...
+
+Giám đốc Sở Du lịch Hà Nội Đặng Hương Giang cũng cho biết, Sở đẩy mạnh khai thác các yếu tố đặc trưng văn hóa của Hà Nội để tập trung phát triển sản phẩm du lịch với tính đặc thù và có tính cạnh tranh cao. Đó là tập trung đầu tư, khai thác hiệu quả và phát huy thế mạnh không gian kiến trúc, giá trị văn hóa khu phố cố, khu phố cũ, khu vực hồ Hoàn Kiếm và phụ cận; tổ chức tốt các lễ hội truyền thống và các hoạt động văn hóa nghệ thuật dân gian. Sở Du lịch Hà Nội cũng khuyến khích các đơn vị lữ hành phối hợp với các điểm đến di tích triển khai xây dựng các sản phẩm du lịch trải nghiệm, du lịch ứng dụng công nghệ trên nền tảng các sản phẩm du lịch truyền thống.
+
+Hiện nay, khách du lịch đến Hà Nội đang có mức tăng trưởng cao sau khi thành phố thực hiện hàng loạt các giải pháp thúc đẩy phát triển du lịch. Trong rất nhiều sản phẩm du lịch được làm mới để thu hút khách thì du lịch văn hóa vẫn là sản phẩm được ưu tiên. Bởi vậy, việc cân bằng giữa công tác bảo tồn văn hóa và phát triển du lịch nhằm đem lại lợi ích kép luôn cần sự quan tâm của cả ngành văn hóa và du lịch cũng như các cơ quan quản lý khác.
+
+**Minh Anh**

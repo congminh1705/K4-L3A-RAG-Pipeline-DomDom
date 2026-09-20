@@ -18,6 +18,8 @@ Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không 
 
 ## Quick start
 
+Yêu cầu Python 3.10–3.13 (không dùng Python 3.14).
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
@@ -28,6 +30,15 @@ cp .env.example .env
 ```
 
 Điền API key cần dùng trong `.env`; không commit file này.
+
+Trên Windows PowerShell, có thể chạy trực tiếp bằng interpreter trong môi trường ảo:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -e ".[dev]"
+.\.venv\Scripts\python.exe -m src.task4_chunking_indexing
+.\.venv\Scripts\python.exe -m pytest -q
+.\.venv\Scripts\streamlit.exe run app.py
+```
 
 ```bash
 # 1. Thu thập và chuẩn hoá
@@ -42,6 +53,35 @@ pytest -q
 # 3. Chạy sản phẩm
 streamlit run app.py
 ```
+
+## Cấu hình hiện tại
+
+- Corpus du lịch và di sản Việt Nam: 3 tài liệu legal, 5 bài viết, 986 chunks.
+- Chunking: paragraph-aware, 500 ký tự, overlap 50 ký tự.
+- Dense retrieval: ChromaDB cosine với feature hashing 1024 chiều chạy offline.
+- Lexical retrieval: BM25 cục bộ trên cùng corpus chunks.
+- Fusion: Reciprocal Rank Fusion, `k=60`, chỉ chạy một lần.
+- Fallback: tìm kiếm vectorless theo section, trả `retrieval_method="pageindex"`;
+  lỗi fallback không làm pipeline crash.
+- Generation: Gemini theo `LLM_PROVIDER` trong `.env`, citation `[S1]`, `[S2]`;
+  OpenAI và Anthropic cũng được hỗ trợ.
+- UI: Streamlit hiển thị câu trả lời, nguồn, score và retrieval method.
+
+Embedding hashing giúp demo chạy không cần tải model lớn. Khi có đủ tài nguyên, đổi
+`EMBEDDING_PROVIDER=sentence_transformers` và `EMBEDDING_MODEL=BAAI/bge-m3`, rồi
+chạy lại Task 4 để tạo index mới.
+
+## Evaluation
+
+Golden dataset có 15 câu grounded. Chạy A/B dense-only và hybrid + RRF bằng:
+
+```bash
+python -m src.evaluate
+```
+
+Kết quả chi tiết được ghi tạm vào `.cache/evaluation_results.json`; báo cáo đã tổng
+hợp tại `group_project/evaluation/RESULT.md`. Evaluator hiện dùng bốn token-overlap
+proxy metrics chạy offline và ghi rõ giới hạn trong báo cáo.
 
 ## Lộ trình 3 giờ
 

@@ -1,0 +1,55 @@
+# Khi di sản thành thương hiệu du lịch
+
+**Source:** https://vietnamtourism.gov.vn/post/63518
+
+**Crawled:** 2026-09-20T09:27:31.036506+00:00
+
+---
+
+Du lịch Việt Nam đang ghi nhận nhiều thành công nhờ việc khai thác sâu giá trị di sản và văn hóa bản địa. Những điểm đến như Ninh Bình, Hà Giang, Hội An (Quảng Nam)... minh chứng hiệu quả từ hướng đi này. Tuy nhiên, quá trình khai thác cũng đối mặt nhiều khó khăn. Một số địa phương thiếu chiến lược dài hạn, chỉ tập trung “làm du lịch theo mùa” hoặc chạy theo xu hướng mà chưa đầu tư bền vững...
+
+[![](/images/2025/thang_6/2506.di_san_thanh_du_lich_1.jpg)](/images/2025/thang_6/2506.di_san_thanh_du_lich_1.jpg)
+
+*Nhờ khai thác sâu giá trị di sản và văn hóa bản địa, Hội An (Quảng Nam) thu hút rất nhiều khách du lịch*
+
+**Di sản trở thành lực hút**
+
+Những ngày tháng 5 vừa qua, du lịch Ninh Bình ghi nhận nhiều tín hiệu tích cực từ hàng loạt sự kiện đặc sắc, thu hút đông đảo nhân dân và du khách. Tiêu biểu là các chương trình nghệ thuật như: “Di sản dành cho cuộc sống”, Festival Nón lá - Việt Nam 2025, chương trình nghệ thuật tại Phố cổ Hoa Lư… tạo nên không gian văn hóa - nghệ thuật đậm đà bản sắc, tạo điểm nhấn mạnh cho du lịch.
+
+Sở hữu cả di sản văn hóa và thiên nhiên, đặc biệt là Quần thể danh thắng Tràng An - di sản thế giới kép đầu tiên của Việt Nam, Ninh Bình đã rất mạnh tay đầu tư, xây dựng hình ảnh điểm đến hấp dẫn với các địa danh như Tam Cốc - Bích Động, Hang Múa, chùa Bái Đính...không chỉ mang đến trải nghiệm đa dạng mà còn góp phần quảng bá bản sắc văn hóa vùng miền.
+
+Điều đáng quý là Ninh Bình không khai thác du lịch bằng mọi giá, mà chú trọng bảo tồn cảnh quan và giá trị di sản như Tràng An, cố đô Hoa Lư, chùa Bái Đính...Cơ sở hạ tầng du lịch được quy hoạch kỹ lưỡng, hạn chế bê tông hóa, giữ gìn vẻ nguyên sơ của thiên nhiên. Đó cũng là một cách thu hút khách rất tự nhiên, đặc biệt là khách du lịch quốc tế.
+
+Cùng với Ninh Bình, Hội An cũng trở thành một trong những biểu tượng du lịch văn hóa của cả nước, khi kết hợp thành công kiến trúc đô thị cổ và thúc đẩy các hoạt động nghề truyền thống, các lễ hội dân gian. Không chỉ giữ gìn gần như nguyên vẹn diện mạo phố cổ với nhà gỗ, mái ngói âm dương, đường phố nhỏ hẹp, Hội An còn làm sống dậy những nghề thủ công như làm đèn lồng, may đo truyền thống, mộc mỹ nghệ...
+
+Các lễ hội dân gian như lễ hội đèn lồng, hát Bài Chòi được tổ chức thường xuyên, trở thành điểm nhấn trong trải nghiệm của du khách. Nhiều khách du lịch chia sẻ rằng, đến Hội An cảm nhận nơi đây như một “bảo tàng về lịch sử kiến trúc, dân cư đô thị”, nơi mà người dân sinh sống ngay trong lòng di sản với những phong tục, tập quán, nề nếp ứng xử, ẩm thực… vẫn được gìn giữ. Chính sự cộng hưởng giữa giá trị vật thể và phi vật thể đã tạo nên bản sắc riêng cho Hội An, tạo nên một sức hút đặc biệt.
+
+Còn đến với Hà Giang, đến với cao nguyên đá Đồng Văn, kiến trúc nhà trình tường, bờ rào đá, nghệ thuật múa khèn đặc sắc hay trải nghiệm các phong tục tập quán của đồng bào dân tộc Mông, Dao, Tày… luôn mang đến rất nhiều những trải nghiệm thú vị cho du khách. Cùng với đó, Hà Giang thu hút du khách nhờ các lễ hội mang đậm bản sắc văn hóa, như Lễ hội Hoa Tam giác mạch, Lễ hội Khèn Mông, Lễ hội Chợ tình Khâu Vai…Mỗi lễ hội là một câu chuyện về đời sống, những nét văn hóa truyền thống rất đẹp của đồng bào vùng cao.
+
+Tính chung 5 tháng đầu năm 2025, lượng khách quốc tế đến Việt Nam đạt hơn 9,2 triệu lượt, tăng 21,3% so với cùng kỳ năm 2024. Riêng tháng 5/2025, lượng khách quốc tế đến nước ta đạt 1,53 triệu lượt, tăng 10,5% so với cùng kỳ năm ngoái. Đóng góp vào những con số ấn tượng đó chính là những điểm đến ấn tượng - những điểm đến đã khai thác rất sâu giá trị của di sản và văn hóa bản địa.
+
+[![](/images/2025/thang_6/2506.di_san_thanh_du_lich_2.jpg)](/images/2025/thang_6/2506.di_san_thanh_du_lich_2.jpg)
+
+*Ninh Bình đang trở thành điểm sáng du lịch nhờ khai thác tốt văn hóa và di sản*
+
+**Lợi ích kép của du lịch kết hợp di sản**
+
+TS Hoàng Thị Điệp - nguyên Phó Tổng Cục trưởng Tổng cục Du lịch Quốc gia Việt Nam (nay là Cục Du lịch Quốc gia Việt Nam) nhận định, tại nhiều nơi, hoạt động du lịch dựa vào văn hóa, di sản đang trở thành động lực sinh kế, ngành kinh tế chủ lực của địa phương. Du lịch văn hóa, di sản vừa tạo ra thu nhập, việc làm vừa tạo nguồn lực để bảo tồn và phát huy giá trị di sản. Đó chính là lợi ích kép của du lịch kết hợp di sản. Du lịch di sản tạo ra nguồn thu nhập, nguồn đó được sử dụng để bảo tồn, tôn tạo, quảng bá và phát huy giá trị của di sản.
+
+Tuy nhiên, bên cạnh những thành công, không ít địa phương vẫn đang loay hoay trong việc phát triển du lịch văn hóa một cách bền vững. Đặc biệt, một số địa phương vẫn đang khai thác du lịch theo hướng ngắn hạn, chạy theo xu hướng, hoặc “làm du lịch theo mùa”. Như chỉ tập trung tổ chức các dịp lễ hội, lễ tết đầu năm. Nhiều sản phẩm du lịch gắn với di sản mới chỉ dừng ở mức độ trình diễn, thiếu chiều sâu nội dung và trải nghiệm.
+
+Tại một số địa phương do du lịch tăng trưởng mạnh đã có những tác động tiêu cực tới di sản như: thương mại hóa quá mức, lạm dụng di sản, phục dựng sai quy cách.
+
+Vì vậy, để khai thác di sản - văn hóa trong du lịch, theo các chuyên gia cần sự đầu tư lâu dài và đồng bộ, sự phối hợp chặt chẽ giữa ngành du lịch và văn hóa, chính quyền địa phương, đặc biệt là sự tham gia của cộng đồng.
+
+Điển hình như ở Hội An, người dân được đào tạo để trực tiếp tham gia phục vụ khách du lịch từ làm nghề truyền thống, chế biến món ăn… đến biểu diễn nghệ thuật truyền thống như hát Bài Chòi. Tại Quần thể danh thắng Tràng An, mô hình "doanh nghiệp và người dân cùng tham gia bảo vệ, khai thác" đã được UNESCO đánh giá cao và coi là một hình mẫu cần nhân rộng. Việc này không chỉ tạo sinh kế bền vững cho người dân mà còn giúp giữ gìn di sản văn hóa truyền thống.
+
+PGS.TS Nguyễn Thị Thu Phương - Viện trưởng Viện Văn hóa, Nghệ thuật, Thể thao và Du lịch khẳng định, trong bối cảnh công nghệ số, truyền thông đa phương tiện bùng nổ, kích hoạt nhu cầu tiêu dùng ở các trung tâm công nghiệp văn hóa đã đặt ra vấn đề cạnh tranh càng lớn giữa các điểm đến du lịch và đòi hỏi địa phương muốn phát triển du lịch cần phải kể được những câu chuyện văn hóa thông qua sản phẩm du lịch.
+
+Về vấn đề này, một số chuyên gia cũng cho rằng cần có các chính sách hỗ trợ, ưu đãi đầu tư đúng trọng điểm; tăng cường giám sát việc bảo tồn và khai thác di sản; ứng dụng công nghệ số để kể chuyện di sản hấp dẫn hơn, thu hút thế hệ trẻ và khách quốc tế. Nêu điển hình của Ninh Bình, ông Johnathan Baker - Trưởng đại diện Văn phòng UNESCO tại Việt Nam cho biết, vùng đất đặc biệt này không chỉ được tôn vinh vì những giá trị nổi bật toàn cầu mà còn là nơi có cảnh quan vô cùng sống động, có cộng đồng địa phương gắn bó sâu sắc với các tài nguyên tự nhiên và văn hoá. Tuy nhiên, cũng như nhiều Di sản Thế giới khác, Tràng An đang đối mặt với thách thức trong việc cân bằng giữa phát triển du lịch và bảo tồn di sản.
+
+Theo ông Johnathan Baker, không chỉ là làm thế nào thu hút thêm khách du lịch, mà còn là làm thế nào để du lịch nuôi dưỡng các di sản sống, góp phần nâng cao chất lượng sống của cộng đồng và giữ gìn bản sắc văn hoá của Tràng An. Di sản và hệ sinh thái là những giá trị quý giá và hữu hạn, một khi bị tổn thương sẽ rất khó để khôi phục hoàn toàn. Vì vậy, đầu tư, phát triển phải song hành với gìn giữ di sản cho các thế hệ mai sau.
+
+Du lịch văn hóa - di sản chắc chắn vẫn là hướng đi chiến lược của Việt Nam trong tương lai. Tuy nhiên, phát triển du lịch từ di sản đòi hỏi cần có một giải pháp bài bản, bền vững. Đặc biệt phải rất cẩn trọng, tránh phát triển nóng, phá vỡ cảnh quan. Cùng với đó, khuyến khích cộng đồng địa phương chủ động cùng tham gia quản lý di sản, gắn lợi ích của cộng đồng địa phương với việc bảo tồn và phát huy giá trị di sản. Một phần doanh thu từ du lịch di sản phải được quay trở lại tái đầu tư vào việc bảo tồn, tôn tạo, tôn vinh, phục dựng và quản lý di sản…
+
+**Mai Hoa**

@@ -11,10 +11,14 @@ Ví dụ tài liệu: học phí, học bổng, ký túc xá, quy trình đăng 
 Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vượt WAF.
 """
 
+import sys
 from pathlib import Path
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 
 def setup_directory() -> None:
@@ -24,20 +28,19 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    """Validate the documents collected manually by the group."""
+    documents = sorted(
+        path for path in DATA_DIR.iterdir()
+        if path.is_file() and path.suffix.lower() in {".pdf", ".doc", ".docx"}
+    )
+    if len(documents) < 3:
+        raise RuntimeError(
+            f"Cần ít nhất 3 PDF/DOCX trong {DATA_DIR}; hiện có {len(documents)}."
+        )
+    for path in documents:
+        if path.stat().st_size <= 1024:
+            raise RuntimeError(f"Tài liệu quá nhỏ hoặc rỗng: {path.name}")
+        print(f"Ready: {path.name}")
 
 
 if __name__ == "__main__":

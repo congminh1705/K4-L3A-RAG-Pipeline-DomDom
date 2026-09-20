@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Luật Di sản văn hóa số 45/2024/QH15 có hiệu lực từ ngày nào?",
+    "expected_answer": "Luật có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+    "expected_context": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+    "source": "51-vbhn-vpqh.md"
+  },
+  {
+    "question": "Theo Luật Di sản văn hóa, di sản văn hóa phi vật thể là gì?",
+    "expected_answer": "Đó là tri thức, kỹ năng, tập quán, biểu đạt văn hóa cùng các đồ vật, đồ tạo tác và không gian liên quan được cộng đồng thực hành, trao truyền qua nhiều thế hệ và hình thành bản sắc.",
+    "expected_context": "Di sản văn hóa phi vật thể là tri thức, kỹ năng, tập quán, biểu đạt văn hóa cùng đồ vật, đồ tạo tác, không gian liên quan được cộng đồng, nhóm người, cá nhân thực hành, trao truyền qua nhiều thế hệ.",
+    "source": "51-vbhn-vpqh.md"
+  },
+  {
+    "question": "Di sản văn hóa vật thể bao gồm những loại hình nào?",
+    "expected_answer": "Bao gồm di tích lịch sử - văn hóa, danh lam thắng cảnh, di vật, cổ vật và bảo vật quốc gia.",
+    "expected_context": "Di sản văn hóa vật thể là sản phẩm vật chất có giá trị lịch sử, văn hóa, khoa học, thẩm mỹ, bao gồm di tích lịch sử - văn hóa, danh lam thắng cảnh, di vật, cổ vật, bảo vật quốc gia.",
+    "source": "51-vbhn-vpqh.md"
+  },
+  {
+    "question": "Luật Di sản văn hóa định nghĩa danh lam thắng cảnh như thế nào?",
+    "expected_answer": "Là cảnh quan thiên nhiên, hoặc cảnh quan thiên nhiên kết hợp với công trình kiến trúc, có giá trị lịch sử, khoa học hoặc thẩm mỹ.",
+    "expected_context": "Danh lam thắng cảnh là cảnh quan thiên nhiên hoặc cảnh quan thiên nhiên, địa điểm có sự kết hợp với công trình kiến trúc có giá trị lịch sử, khoa học, thẩm mỹ.",
+    "source": "51-vbhn-vpqh.md"
+  },
+  {
+    "question": "Luật Di sản văn hóa áp dụng cho những đối tượng nào?",
+    "expected_answer": "Luật áp dụng cho cơ quan, tổ chức, cộng đồng và cá nhân Việt Nam hoặc nước ngoài có hoạt động liên quan đến quản lý, bảo vệ và phát huy giá trị di sản văn hóa.",
+    "expected_context": "Luật này áp dụng đối với cơ quan, tổ chức, cộng đồng và người Việt Nam định cư ở Việt Nam; cơ quan, tổ chức, cộng đồng và người nước ngoài định cư, hoạt động ở Việt Nam.",
+    "source": "51-vbhn-vpqh.md"
+  },
+  {
+    "question": "Người phụ trách kinh doanh dịch vụ lữ hành có thể giữ những chức danh nào?",
+    "expected_answer": "Có thể là chủ tịch hội đồng quản trị, chủ tịch hội đồng thành viên, chủ tịch công ty, chủ doanh nghiệp tư nhân, tổng giám đốc, giám đốc, phó giám đốc hoặc trưởng bộ phận kinh doanh dịch vụ lữ hành.",
+    "expected_context": "Người phụ trách kinh doanh dịch vụ lữ hành là người giữ một trong các chức danh sau: chủ tịch hội đồng quản trị; chủ tịch hội đồng thành viên; chủ tịch công ty; chủ doanh nghiệp tư nhân; tổng giám đốc; giám đốc hoặc phó giám đốc; trưởng bộ phận kinh doanh dịch vụ lữ hành.",
+    "source": "5538-vbhn-bvhttdl.md"
+  },
+  {
+    "question": "Những chuyên ngành nào được xem là chuyên ngành về lữ hành?",
+    "expected_answer": "Các ngành gồm quản trị dịch vụ du lịch và lữ hành, quản trị lữ hành, điều hành tour, marketing du lịch, du lịch, quản lý và kinh doanh du lịch, quản trị du lịch MICE, đại lý lữ hành và hướng dẫn du lịch.",
+    "expected_context": "Quản trị dịch vụ du lịch và lữ hành; Quản trị lữ hành; Điều hành tour du lịch; Marketing du lịch; Du lịch; Du lịch lữ hành; Quản lý và kinh doanh du lịch; Quản trị du lịch MICE; Đại lý lữ hành; Hướng dẫn du lịch.",
+    "source": "5538-vbhn-bvhttdl.md"
+  },
+  {
+    "question": "Hướng dẫn viên du lịch quốc tế cần chứng chỉ ngoại ngữ ở mức nào?",
+    "expected_answer": "Có thể dùng chứng chỉ từ bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hoặc tương đương từ B2 theo Khung tham chiếu chung Châu Âu.",
+    "expected_context": "Chứng chỉ ngoại ngữ từ bậc 4 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương từ bậc B2 trở lên theo Khung tham chiếu chung Châu Âu.",
+    "source": "5538-vbhn-bvhttdl.md"
+  },
+  {
+    "question": "Khi doanh nghiệp tự chấm dứt kinh doanh lữ hành, hồ sơ thu hồi giấy phép gồm gì?",
+    "expected_answer": "Hồ sơ gồm thông báo chấm dứt hoạt động kinh doanh dịch vụ lữ hành và giấy phép kinh doanh dịch vụ lữ hành đã được cấp.",
+    "expected_context": "Trường hợp doanh nghiệp tự chấm dứt hoạt động kinh doanh lữ hành, hồ sơ gồm: thông báo chấm dứt hoạt động kinh doanh dịch vụ lữ hành; giấy phép kinh doanh dịch vụ lữ hành đã được cấp.",
+    "source": "5538-vbhn-bvhttdl.md"
+  },
+  {
+    "question": "Điều kiện kinh doanh dịch vụ lữ hành nội địa gồm những gì?",
+    "expected_answer": "Doanh nghiệp phải được thành lập theo pháp luật về doanh nghiệp, ký quỹ tại ngân hàng và người phụ trách phải có trình độ hoặc chứng chỉ nghiệp vụ phù hợp.",
+    "expected_context": "Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm: là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp; ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng; người phụ trách phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành hoặc có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+    "source": "09-2017-qh14-congbao.md"
+  },
+  {
+    "question": "Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa gồm những giấy tờ nào?",
+    "expected_answer": "Hồ sơ gồm đơn đề nghị, bản sao chứng thực đăng ký doanh nghiệp, giấy chứng nhận ký quỹ, giấy tờ bổ nhiệm hoặc hợp đồng lao động và văn bằng hoặc chứng chỉ của người phụ trách.",
+    "expected_context": "Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa bao gồm đơn đề nghị; bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận ký quỹ; quyết định bổ nhiệm hoặc hợp đồng lao động; văn bằng, chứng chỉ của người phụ trách.",
+    "source": "09-2017-qh14-congbao.md"
+  },
+  {
+    "question": "Năm tháng đầu năm 2025 Việt Nam đón bao nhiêu khách quốc tế?",
+    "expected_answer": "Việt Nam đón hơn 9,2 triệu lượt khách quốc tế, tăng 21,3% so với cùng kỳ năm 2024.",
+    "expected_context": "Tính chung 5 tháng đầu năm 2025, lượng khách quốc tế đến Việt Nam đạt hơn 9,2 triệu lượt, tăng 21,3% so với cùng kỳ năm 2024.",
+    "source": "article_01.md"
+  },
+  {
+    "question": "Việt Nam được vinh danh danh hiệu du lịch nào trong năm 2024?",
+    "expected_answer": "Việt Nam được vinh danh là Điểm đến Di sản hàng đầu thế giới; làng rau Trà Quế được công nhận là Làng Du lịch tốt nhất 2024.",
+    "expected_context": "Năm 2024 Việt Nam tiếp tục được vinh danh với danh hiệu Điểm đến Di sản hàng đầu thế giới, còn làng rau Trà Quế trở thành Làng Du lịch tốt nhất 2024.",
+    "source": "article_02.md"
+  },
+  {
+    "question": "Hà Nội có bao nhiêu di tích, di sản phi vật thể và làng nghề?",
+    "expected_answer": "Hà Nội có 5.922 di tích, 1.793 di sản văn hóa phi vật thể và 1.350 làng nghề.",
+    "expected_context": "Với 5.922 di tích, 1.793 di sản văn hóa phi vật thể, 1.350 làng nghề cùng rất nhiều làng cổ và các không gian văn hóa, Hà Nội có dư địa dồi dào cho hoạt động phát triển du lịch Thủ đô.",
+    "source": "article_04.md"
+  },
+  {
+    "question": "Mục tiêu đến năm 2030 về tỷ trọng doanh thu du lịch văn hóa là bao nhiêu?",
+    "expected_answer": "Đến năm 2030, du lịch văn hóa được kỳ vọng chiếm 15–20% trong tổng doanh thu 40 tỷ USD từ khách du lịch.",
+    "expected_context": "Kỳ vọng đến năm 2030: Ngành du lịch văn hóa chiếm 15-20% trong tổng số 40 tỷ USD doanh thu từ khách du lịch.",
+    "source": "article_05.md"
+  }
+]
